@@ -48,22 +48,22 @@ function App() {
 
   const certificates = [
     {
-      name: "AWS Certified Developer",
-      issuer: "Amazon Web Services",
+      name: "Smart India Hackathon",
+      issuer: "SIH",
       date: "2024",
-      link: "https://www.credly.com/badges/aws-certified-developer"
+      link: "https://drive.google.com/file/d/1LhwE3TFKA9-UGlKQiwm2AxbZhg3Q3FOk/view?usp=drive_link"
     },
     {
-      name: "Full Stack Development",
-      issuer: "Meta",
-      date: "2023",
-      link: "https://www.coursera.org/account/accomplishments/meta-fswd"
+      name: "servicenow Training",
+      issuer: "servicenow",
+      date: "2025",
+      link: "https://drive.google.com/file/d/1MzscdY6GtKKWX1KIe0pGafncaZ5MmOfG/view"
     },
     {
-      name: "Machine Learning Specialization",
-      issuer: "Stanford Online",
-      date: "2023",
-      link: "https://www.coursera.org/account/accomplishments/stanford-ml"
+      name: "Hackathon Hackureka",
+      issuer: "Google Developer Group",
+      date: "2025",
+      link: "https://drive.google.com/file/d/17cJ8ADO5n4UoadSnOf8ohRVeJn798urG/view?usp=drive_link"
     }
   ];
 

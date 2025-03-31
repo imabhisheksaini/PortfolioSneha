@@ -119,7 +119,7 @@ function App() {
           </p>
           <div className="flex gap-6 justify-center">
             <a 
-              href="https://github.com" 
+              href="https://github.com/snehagoyal25" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:scale-110 transition-transform bg-white/10 dark:bg-black/20 p-3 rounded-full hover:bg-white/30 dark:hover:bg-black/40"
@@ -127,7 +127,7 @@ function App() {
               <Github className="w-6 h-6" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/sneha-goyal-671605251/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:scale-110 transition-transform bg-white/10 dark:bg-black/20 p-3 rounded-full hover:bg-white/30 dark:hover:bg-black/40"

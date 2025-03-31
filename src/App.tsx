@@ -27,17 +27,17 @@ function App() {
     },
     {
       title: "Last Minute preparation",
-      description: "Developed a real-time chat application with AI integration",
+      description: "A quiz app for student for last minute study.",
       image: "https://tse4.mm.bing.net/th?id=OIP.CExMpYH06o83VXdX2GcPWgHaDH&pid=Api&P=0&h=180",
       liveLink: "https://lastminutepreperation.vercel.app/",
       github: "https://github.com/snehagoyal25/lastMinutePrep.git"
     },
     {
-      title: "Portfolio Website",
-      description: "Designed and developed responsive portfolio websites for clients",
+      title: "Code Slayer",
+      description: "Leetcode Multiplayer : Platform Which Allows You to Solve Coding Problems in Multiplayer Fashion with Your Friends.",
       image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
-      liveLink: "https://portfolio.snehagoyal.dev",
-      github: "https://github.com/snehagoyal/portfolio"
+      liveLink: "https://code-smack.vercel.app/",
+      github: "https://github.com/snehagoyal25/code-slayer"
     }
   ];
 

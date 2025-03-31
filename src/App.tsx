@@ -111,7 +111,7 @@ function App() {
           className="text-center"
         >
           <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-violet-600 to-pink-500 bg-clip-text text-transparent drop-shadow-lg">
-            Full Stack Developer
+            Frontend Developer
           </h1>
           <p className="text-xl mb-8 max-w-2xl font-medium">
             Crafting digital experiences with code and creativity. Specialized in building scalable web applications

@@ -42,8 +42,8 @@ function App() {
   ];
 
   const skills = [
-    "React", "Node.js", "TypeScript", "MongoDB", "AWS", "Docker",
-    "Python", "GraphQL", "Next.js", "PostgreSQL", "Redis", "Kubernetes"
+    "React", "Node.js", "TypeScript", "MongoDB", "C++", "Docker",
+    "Express.js", "MySql", "Next.js", "GIT", "Tailwind", "JavaScript"
   ];
 
   const certificates = [

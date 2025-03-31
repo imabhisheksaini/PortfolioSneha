@@ -19,18 +19,18 @@ function App() {
 
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "Built a full-stack e-commerce platform using React, Node.js, and MongoDB",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&q=80",
-      liveLink: "https://ecommerce-demo.snehagoyal.dev",
-      github: "https://github.com/snehagoyal/ecommerce-platform"
+     title: "Safe-voice",
+      description: "Developed a platform for abuse victims to anonymously share stories and file FIRs.",
+      image: "https://images.unsplash.com/photo-1617575521317-d2974f3b56d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      liveLink: "https://safevoice.vercel.app/",
+      github: "https://github.com/snehagoyal25/Safe-voice.git"
     },
     {
-      title: "AI Chat Application",
+      title: "Last Minute preparation",
       description: "Developed a real-time chat application with AI integration",
-      image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
-      liveLink: "https://chat.snehagoyal.dev",
-      github: "https://github.com/snehagoyal/ai-chat-app"
+      image: "https://tse4.mm.bing.net/th?id=OIP.CExMpYH06o83VXdX2GcPWgHaDH&pid=Api&P=0&h=180",
+      liveLink: "https://lastminutepreperation.vercel.app/",
+      github: "https://github.com/snehagoyal25/lastMinutePrep.git"
     },
     {
       title: "Portfolio Website",

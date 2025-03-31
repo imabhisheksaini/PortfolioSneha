@@ -54,7 +54,7 @@ function App() {
       link: "https://drive.google.com/file/d/1LhwE3TFKA9-UGlKQiwm2AxbZhg3Q3FOk/view?usp=drive_link"
     },
     {
-      name: "servicenow Training",
+      name: "Certified System Administrator",
       issuer: "servicenow",
       date: "2025",
       link: "https://drive.google.com/file/d/1MzscdY6GtKKWX1KIe0pGafncaZ5MmOfG/view"
